@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/React-18.0.0-%2361DAFB) ![](https://img.shields.io/badge/Yarn-1.22.19-%232C8EBB)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### View
+
+View the [result](https://majestic-shortbread-232e2c.netlify.app/).
